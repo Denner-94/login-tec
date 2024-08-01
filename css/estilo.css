@@ -39,7 +39,7 @@ body{
 }
 #login > #img{
     display: block;
-    background: var(--cor3) url(../img/tecno-img.jpg) no-repeat;
+    background: var(--cor3) url(../imagens/tecno-img.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
     height: 100%;

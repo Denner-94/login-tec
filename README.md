@@ -13,6 +13,8 @@ Pasta CSS com dois arquivos .css. Esses aquivos estão os codigos de estilizaç�
 -estilo.css - estilo inicial;
 -mobile.css - aplicado a responsividade para telas menores.
 
+Pasta contendo imagem e o favicon.ico.
+
 Arquivo index.html com o código fonte do projeto.
 
 Arquivo gitignore para possiveis dados sensíveis.
