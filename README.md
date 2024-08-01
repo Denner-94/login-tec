@@ -1,4 +1,6 @@
 # Login tec
+
+[link do projeto](https://denner-94.github.io/login-tec/)
 /
 Esse projeto de formulário foi inspirado na aula do Curso em video.
 Apliquei aqui meus conhecimentos básicos de HTML e CSS, trouxe um exemplo de logim para uma pagina de tecnogia.
@@ -8,6 +10,7 @@ Fiz algumas alterações no projeto de:
 -Favicon;
 -Tipografias.
 /
+
 *Composição do arquivo*
 Pasta CSS com dois arquivos .css. Esses aquivos estão os codigos de estilização.
 -estilo.css - estilo inicial;
@@ -21,8 +24,10 @@ Arquivo gitignore para possiveis dados sensíveis.
 
 Arquivo README.md com as descrições do projeto.
 /
+
 *Exibição*
 Optei por usar diplay Flexbox, porém utilizei também display block pare melhor posicionamento da imagem.
+/
 
 *Formúlario*
 Para apresensatação foi aplicado um Título e um paragráfo
@@ -34,14 +39,15 @@ Para experiência do usuário foi aplicado dois inputs de entrada e um input de 
 E um link para redefinição de senha.
 -Esqueci minha senha.
 /
-*Fonte*
+
+*Fonte* - fontes sem serifas-
 Foi aplicado uma fonte externa do Google fontes como font-family
 -Questrial
 
 Uma fonte generica foi aplicada para navegadores na renderizalção
--Arial, Helvetica, sans-serif
-*fontes sem serifas*
+-Arial, Helvetica, sans-serif.
 /
+
 *Cores*
 No corpo do projeto apliquei um background gradiente com três cores.
 
